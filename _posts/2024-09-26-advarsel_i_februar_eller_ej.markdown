@@ -121,7 +121,7 @@ categories: jekyll update
        </span>
       <div class="content">
        <audio controls="">
-        <source src="/custom_assets/audio/du_har_fået_en_advarsel___jaja_2.mp3"/>
+        <source src="../custom_assets/audio/du_har_fået_en_advarsel___jaja_2.mp3"/>
         Your browser does not support the audio element.
        </audio>
       </div>
@@ -171,7 +171,7 @@ categories: jekyll update
        .
       <div class="content">
        <audio controls="">
-        <source src="/custom_assets/audio/det_har_jeg_da_anerkendt_masser_af_gange_0408.mp3"/>
+        <source src="../custom_assets/audio/det_har_jeg_da_anerkendt_masser_af_gange_0408.mp3"/>
         Your browser does not support the audio element.
        </audio>
       </div>
