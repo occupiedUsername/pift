@@ -14,8 +14,8 @@ categories: jekyll update
      : <br>SDU påstår i afgørelse, at ND fik at vide, han IKKE havde fået en advarsel.
     </h3>
     <div class="content">
-     <a title='"Jeg har også noteret mig, at du på møde med din vejleder den 21. februar 2023 blev orienteret om, at din undskyldning i sagen fra BML den 31. januar 2023 blev accepteret og man ikke ville gå videre med sagen."' href="../custom_assets/images/benægtelse_af_advarsel_i_advarsel.png" target="_blank" rel="noreferrer noopener">
-      <image src="../custom_assets/images/benægtelse_af_advarsel_i_advarsel.png">
+     <a title='"Jeg har også noteret mig, at du på møde med din vejleder den 21. februar 2023 blev orienteret om, at din undskyldning i sagen fra BML den 31. januar 2023 blev accepteret og man ikke ville gå videre med sagen."' href="https://github.com/occupiedUsername/pift/blob/master/custom_assets/images/ben%C3%A6gtelse_af_advarsel_i_advarsel.png" target="_blank" rel="noreferrer noopener">
+      <image src="https://github.com/occupiedUsername/pift/blob/master/custom_assets/images/ben%C3%A6gtelse_af_advarsel_i_advarsel.png">
      </image>
      </a>	
     </div>
