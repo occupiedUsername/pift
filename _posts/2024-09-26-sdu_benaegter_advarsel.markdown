@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDU og Mikael Palner er uenige om advarsel fra februar."
+title:  "SDU benægter, der blev givet advarsel i februar."
 date:   2024-09-26 09:15:01 +0200
 categories: jekyll update
 ---
