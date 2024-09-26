@@ -4,7 +4,6 @@ title:  "SDU benægter, der blev givet advarsel i februar."
 date:   2024-09-26 09:15:01 +0200
 categories: jekyll update
 ---
-<<<<<<< HEAD
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   <h1> {{ myimage.path }} </h1>
@@ -25,4 +24,3 @@ categories: jekyll update
  <img src="https://drive.google.com/thumbnail?id=1Lv5r929RX1hNHWTUzWWKUvzqx1iqFbwY">
  </a>
 </div>
->>>>>>> 7f92b295f64a208a3aa67ee1838edd694aca72fe
