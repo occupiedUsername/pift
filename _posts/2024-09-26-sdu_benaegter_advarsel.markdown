@@ -4,6 +4,7 @@ title:  "SDU benægter, der blev givet advarsel i februar."
 date:   2024-09-26 09:15:01 +0200
 categories: jekyll update
 ---
+<<<<<<< HEAD
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
   <h1> {{ myimage.path }} </h1>
@@ -17,3 +18,11 @@ categories: jekyll update
    </a>
    </div>
    </div>
+=======
+<h3><i>12. juli, 2023</i>: <br>SDU påstår i afgørelse, at ND fik at vide, han IKKE havde fået en advarsel.</h3>
+<div>
+<a title='"Jeg har også noteret mig, at du på møde med din vejleder den 21. februar 2023 blev orienteret om, at din undskyldning i sagen fra BML den 31. januar 2023 blev accepteret og man ikke ville gå videre med sagen."' href="https://drive.google.com/file/d/1Lv5r929RX1hNHWTUzWWKUvzqx1iqFbwY/view?usp=drive_link" target="_blank" rel="noreferrer noopener">
+ <img src="https://drive.google.com/thumbnail?id=1Lv5r929RX1hNHWTUzWWKUvzqx1iqFbwY">
+ </a>
+</div>
+>>>>>>> 7f92b295f64a208a3aa67ee1838edd694aca72fe
