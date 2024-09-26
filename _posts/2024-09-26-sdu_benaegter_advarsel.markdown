@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
-  {{ myimage.path }}
+  <h1> {{ myimage.path }} </h1>
 {% endfor %}
 
    <div class="argument_component">
