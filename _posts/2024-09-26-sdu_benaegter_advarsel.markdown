@@ -4,6 +4,11 @@ title:  "SDU benægter, der blev givet advarsel i februar."
 date:   2024-09-26 09:15:01 +0200
 categories: jekyll update
 ---
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
    <div class="argument_component">
    <h3><i>12. juli, 2023</i>: <br>SDU påstår i afgørelse, at ND fik at vide, han IKKE havde fået en advarsel.</h3>
    <div class="content">
