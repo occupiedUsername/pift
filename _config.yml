@@ -32,17 +32,17 @@ baseurl: "/pift" # the subpath of your site, e.g. /blog
 twitter_username: "" # jekyllrb
 github_username:  occupiedUsername
 
-defaults:
-  - scope:
-      path: "custom_assets/image"
-    values:
-      image: true
+#defaults:
+#  - scope:
+#      path: "custom_assets/image"
+#    values:
+#      image: true
 
-defaults:
-  - scope:
-      path: "custom_assets/audio"
-    values:
-      audio: true
+#defaults:
+#- scope:
+#      path: "custom_assets/audio"
+#    values:
+#      audio: true
 
 # Build settings
 theme: minima
