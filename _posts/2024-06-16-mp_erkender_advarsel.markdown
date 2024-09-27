@@ -30,9 +30,13 @@ https://drive.usercontent.google.com/download?id=1PkTSnSI6KOlBM5nPdKUwiGbvx1Eq_7
 
 <div>
  <audio controls="controls">
-  <!-- <source src="https://docs.google.com/uc?export=download&id=1PkTSnSI6KOlBM5nPdKUwiGbvx1Eq_78n"> -->
   <source src="/pift/custom_assets/audio/du_har_fået_en_advarsel___jaja_2.mp3">
-  <!-- <source src="https://drive.usercontent.google.com/download?id=1PkTSnSI6KOlBM5nPdKUwiGbvx1Eq_78n&export=open&authuser=0"> -->
+  Your browser does not support the audio tag.
+ </audio>
+</div>
+
+<div>
+ <audio controls="controls" src="/pift/custom_assets/audio/du_har_fået_en_advarsel___jaja_2.mp3">
   Your browser does not support the audio tag.
  </audio>
 </div>
