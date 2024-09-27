@@ -7,10 +7,11 @@ categories: jekyll update
 Umiddelbart herunder finder I en lydafspiller. Den afspiller et stykke lyd fra en optagelse af det sidste møde, jeg havde med Mikael Palner, imens der stadig var en chance for, at vi kunne fortsætte vores samarbejde. Samtalen foregår over videokonference.
 
 <div>
- <audio controls="controls" src="/pift/custom_assets/audio/det_har_jeg_da_anerkendt_masser_af_gange.mp3">
+ <audio controls="controls" src="/pift/custom_assets/audio/det_har_jeg_da_anerkendt_masser_af_gange_0408.mp3">
   Your browser does not support the audio tag.
  </audio>
 </div>
+https://occupiedusername.github.io/pift/custom_assets/audio/du_har_f%C3%A5et_en_advarsel___jaja_2.mp3
 
 Modsat [samtalen vi havde d. 16. juni][mp_erkender_advarsel] forekommer Mikael, ikke overraskende, betydeligt bedre forberedt.
 
