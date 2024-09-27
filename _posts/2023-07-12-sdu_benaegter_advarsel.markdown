@@ -18,12 +18,11 @@ Vejlederen der påstås at have fortalt mig, at man <q>ikke ville gå videre med
 
 Jeg har løbende opfordret Mikael Palner til at korrigere den ganske fundamentale misforståelse. Det har Mikael ikke villet gøre på skrift. Hverken han eller nogen af de <i>ansvarlige</i> sagsbehandlere, har svaret på mine spørgsmål til, eller kommenteret på Mikaels erkendelser.
 
-<a href="/2023/06/16/mp_erkender_advarsel.markdown">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
+<a href="https://occupiedusername.github.io/pift/jekyll/update/2023/06/16/mp_erkender_advarsel.html">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
 
-{% for post in site.posts %}
-	{{ post.path }}
+{% for f in site.html_files %}
+	{{ f.path }}
 {% endfor %}
 
 [mp_erkender_advarsel]: https://occupiedusername.github.io/pift/jekyll/update/2023/06/16/mp_erkender_advarsel.html
-[mp_erkender_igen_advarsel]: <a href="/2023/04/08/mp_erkender_igen_advarsel.markdown">Mikael Palner erkender igen advarsel, d. 4. august, 2023</a>
-
+[mp_erkender_igen_advarsel]: https://occupiedusername.github.io/pift/jekyll/update/2023/08/04/mp_erkender_igen_advarsel.html
