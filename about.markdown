@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Syddansk Universitet (SDU) tilsidesætter målrettet studerende og ansattes rettigheder, samt de pligter SDU har, når de skal behandle sager og træffe afgørelser.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Disse tilsidesættelser faciliteres, bl.a., af de tilsynsførende myndigheder, der – e.g. – tilsidesætter egne retningslinjer for at holde SDU ansvarsfri.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+De tilsynsførende og håndhævende myndigheder har med deres sagsbehandling og afgørelser demonstreret, at de ikke har til hensigt at rette op på den fuldkomment kompromitterede retstilstand, der forsøges fastholdt af dem der aktuelt bestyrer SDU. Hvis retssikkerheden for studerende og andre borgere på Syddansk Universitet skal reetableres, er der altså ingen anden mulighed, end at bringe tilstanden frem i lyset.
 
+Indtil tilstanden bliver rettet op, vil jeg løbende dele akterne fra min egen sag med offentligheden.
 
-[jekyll-organization]: https://github.com/jekyll
