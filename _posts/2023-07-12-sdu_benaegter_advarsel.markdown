@@ -20,6 +20,6 @@ Jeg har løbende opfordret Mikael Palner til at korrigere den ganske fundamental
 
 <a href="/2023/06/16/mp_erkender_advarsel.markdown">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
 
-[mp_erkender_advarsel]: {% post_url 2023-06-16-mp_erkender_advarsel %}
+[mp_erkender_advarsel]: {% post_url /pift/2023-06-16-mp_erkender_advarsel %}
 [mp_erkender_igen_advarsel]: <a href="/2023/04/08/mp_erkender_igen_advarsel.markdown">Mikael Palner erkender igen advarsel, d. 4. august, 2023</a>
 
