@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mikael Palner erkender han udstedte advarsel i februar."
-date:   2023-06-16 12:00:00 +0200
+title:  "Mikael Palner erkender igen, han udstedte advarsel i februar."
+date:   2023-08-04 12:00:00 +0200
 categories: jekyll update
 ---
 Umiddelbart herunder finder I en lydafspiller. Den afspiller et stykke lyd fra en optagelse af det sidste møde, jeg havde med Mikael Palner, imens der stadig var en chance for, at vi kunne fortsætte vores samarbejde. Samtalen foregår over videokonference.
