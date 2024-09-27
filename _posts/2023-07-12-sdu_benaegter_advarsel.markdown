@@ -18,6 +18,8 @@ Vejlederen der påstås at have fortalt mig, at man <q>ikke ville gå videre med
 
 Jeg har løbende opfordret Mikael Palner til at korrigere den ganske fundamentale misforståelse. Det har Mikael ikke villet gøre på skrift. Hverken han eller nogen af de <i>ansvarlige</i> sagsbehandlere, har svaret på mine spørgsmål til, eller kommenteret på Mikaels erkendelser.
 
-[mp_erkender_advarsel]: <a href="/2023/06/16/mp_erkender_advarsel.markdown">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
+<a href="/2023/06/16/mp_erkender_advarsel.markdown">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
+
+[mp_erkender_advarsel]: /2023/06/16/mp_erkender_advarsel.markdown
 [mp_erkender_igen_advarsel]: <a href="/2023/04/08/mp_erkender_igen_advarsel.markdown">Mikael Palner erkender igen advarsel, d. 4. august, 2023</a>
 
