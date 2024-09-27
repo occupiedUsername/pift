@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDU benægter advarsel i februar."
+title:  "SDU benægter advarsel blev udstedt i februar."
 date:   2023-07-12 13:24:20 +0200
 categories: jekyll update
 ---
@@ -20,6 +20,6 @@ Jeg har løbende opfordret Mikael Palner til at korrigere den ganske fundamental
 
 <a href="/2023/06/16/mp_erkender_advarsel.markdown">Mikael Palner erkender advarsel, d. 16. juni, 2023</a>
 
-[mp_erkender_advarsel]: /2023/06/16/mp_erkender_advarsel.markdown
+[mp_erkender_advarsel]: {% post_url 2023-06-16-mp_erkender_advarsel %}
 [mp_erkender_igen_advarsel]: <a href="/2023/04/08/mp_erkender_igen_advarsel.markdown">Mikael Palner erkender igen advarsel, d. 4. august, 2023</a>
 

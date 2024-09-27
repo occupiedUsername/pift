@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mikael Palner erkender advarsel."
-date:   2024-06-16 12:00:00 +0200
+title:  "Mikael Palner erkender han udstedte advarsel i februar."
+date:   2023-06-16 12:00:00 +0200
 categories: jekyll update
 ---
 Umiddelbart herunder finder I en lydafspiller. Den afspiller et stykke fra en lydoptagelse af den første samtale, jeg havde med min hovedvejleder, efter jeg vendte tilbage fra min sygemelding. Samtalen foregår på mit kontor, imens flere af mine kollegaer er til stede. Jeg ankom til kontoret, og fandt Mikael i færd med at etablere sig selv som administrator på min <span title="Det er SDUs officielle position, at computeren blev stjålet, mindre end en dag før, jeg skulle have afhentet den på Kirsten Kyviks kontor. Det ser dog mest ud som om, de fik den til at forsvinde, da jeg fortalte dem, der var data på den, jeg skulle bruge i forbindelse med den forestående politianmeldelse.">arbejdscomputer</span>. Han blev tydeligt overrasket over at se mig.
